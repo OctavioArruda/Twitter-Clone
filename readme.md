@@ -1,3 +1,3 @@
-** Database user on mLab:
-* Database username = goweek 
-* Database password = doweek123
+## Twitter clone webapp
+# Backend: node.js + express.js
+# Frontend: react.js
